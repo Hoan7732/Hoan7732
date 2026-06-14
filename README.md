@@ -127,11 +127,10 @@
 ### 🐍 Fun Fact
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoan7732/hoan7732/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoan7732/hoan7732/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoan7732/hoan7732/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoan7732/hoan7732/output/pacman-contribution-graph-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoan7732/hoan7732/output/pacman-contribution-graph.svg?v=1">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoan7732/hoan7732/output/pacman-contribution-graph.svg?v=1">
   </picture>
-  <br/>
 </div>
 
 <div align="center">
