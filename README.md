@@ -124,21 +124,16 @@
 
 ---
 
-### 🐍 Fun Fact: Commit Snake
+### 🐍 Fun Fact
 <div align="center">
   <picture>
-    <!-- Đã đổi sang hoan7732 -->
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoan7732/hoan7732/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoan7732/hoan7732/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoan7732/hoan7732/output/pacman-contribution-graph.svg">
   </picture>
   <br/>
- <!-- Snake Animation (Nếu bạn có dùng) -->
- <!-- <img src="https://raw.githubusercontent.com/hoan7732/hoan7732/output/snake.svg" alt="Snake animation" /> -->
 </div>
 
- <!-- Header/Footer Render -->
 <div align="center">
- <!-- Đã đổi text=hoan7732 -->
  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=hoan7732&fontSize=30&fontColor=fe428e&fontAlign=50&fontAlignY=20&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" width="100%"/>
 </div>
