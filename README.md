@@ -1,16 +1,144 @@
-## Hi there 👋
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20World!&fontSize=60&fontColor=fe428e&fontAlign=50&fontAlignY=80&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" width="100%"/>
+</div>
+<div align="center">
 
-<!--
-**Hoan7732/Hoan7732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://img.shields.io/badge/Hello%2C%20hoan7732-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
-Here are some ideas to get you started:
+  <h1>🌌 Welcome to my universe!</h1>
+  <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
+  
+  <br>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=hoan7732&color=F700FF" alt="Profile Views" />
+  </p>
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 About Me
+
+* 🎯 **Current Focus:** Crafting applications with **Python Core**, **PHP**, and **React**.
+* 📚 **Learning Next:** Mastering **Python(Django)**, **Cloud Solutions (AWS/GCP)** and **DevOps**.
+* 🤝 **Collaborations:** Open to discussions on **AI/ML**, **Web3**, and **Blockchain**.
+
+<br>
+
+### 📧 Connect with Me
+<div align="center">
+  <a href="https://github.com/Hoan7732">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:hoan77321@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hoan-trinh-ngoc-bb7b09414/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/hoan1412">
+    <img src="https://img.shields.io/badge/facebook-2C64F6?style=for-the-badge&logo=facebook&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
+
+---
+
+### 🚀 Tech Universe
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
+
+---
+
+### 🔧 My Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,php,laravel,ts,html,css,js,bootstrap,tailwind,react,dotnet,mongodb,mysql,sqlite,vscode,git,github,docker&perline=8" />
+  <br><br>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+</div>
+
+---
+
+### 📊 GitHub Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoan7732&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+### 📈 GitHub Analytics & Streak
+
+<div align="center">
+
+  <a href="https://github-trophies.vercel.app/?username=hoan7732" target="_blank">
+    <img src="https://github-trophies.vercel.app/?username=hoan7732&theme=radical&margin-w=4&margin-h=4">
+  </a>
+  
+  <br>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hoan7732&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoan7732&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
+  </a>
+
+  <br>
+
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <img src="https://streak-stats.demolab.com?user=hoan7732&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
+</a>
+
+</div>
+
+---
+
+### 🐍 Fun Fact: Commit Snake
+<div align="center">
+  <picture>
+    <!-- Đã đổi sang hoan7732 -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoan7732/hoan7732/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoan7732/hoan7732/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoan7732/hoan7732/output/pacman-contribution-graph.svg">
+  </picture>
+  <br/>
+ <!-- Snake Animation (Nếu bạn có dùng) -->
+ <!-- <img src="https://raw.githubusercontent.com/hoan7732/hoan7732/output/snake.svg" alt="Snake animation" /> -->
+</div>
+
+ <!-- Header/Footer Render -->
+<div align="center">
+ <!-- Đã đổi text=hoan7732 -->
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=hoan7732&fontSize=30&fontColor=fe428e&fontAlign=50&fontAlignY=20&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" width="100%"/>
+</div>
